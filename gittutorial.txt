@@ -1,3 +1,4 @@
 git diff
 statis
 git_tuttorial add
+git commit
