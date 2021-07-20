@@ -1,9 +1,6 @@
 git diff
 statis
 git_tuttorial add
-<<<<<<< HEAD
 git commit
 git merge
-=======
-git commit --amend
->>>>>>> feature
+conflict
