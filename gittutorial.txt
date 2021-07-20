@@ -1,6 +1,7 @@
 git diff
 statis
 git_tuttorial add
+git commit --amend
 git commit
 git merge
 conflict
